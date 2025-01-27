@@ -1,0 +1,14 @@
+# Required Python Libraries
+opencv-python
+numpy
+matplotlib
+pandas
+requests
+flask
+
+# For Arduino and serial communication
+pyserial
+
+# Machine Learning and Image Processing
+scikit-learn
+dlib
