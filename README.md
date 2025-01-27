@@ -2,7 +2,7 @@
 
 Welcome to the Driver Safety Mechanism Project! This project leverages IoT technology and advanced image processing techniques to enhance road safety by detecting and preventing accidents caused by driver negligence, environmental factors, and traffic violations. 💡
 
----
+
 
 ## 📜 Table of Contents
 
@@ -18,7 +18,7 @@ Welcome to the Driver Safety Mechanism Project! This project leverages IoT techn
 8. 🔮 Future Scope
 9. 📚 References
 
----
+
 
 ## ✨ Introduction
 
@@ -32,7 +32,7 @@ Accidents remain a global concern 🌍, with driver negligence being a significa
 
 Our mission? To make roads safer for everyone! 🚗✨
 
----
+
 
 ## 🔧 Features
 
@@ -42,7 +42,7 @@ Our mission? To make roads safer for everyone! 🚗✨
 - **🚸 Sign Board Recognition:** Identifies traffic signs and provides alerts.
 - **📍 Accident Detection:** Sends alerts with GPS coordinates to emergency contacts in case of an accident.
 
----
+
 
 ## 💻 System Requirements
 
@@ -63,7 +63,7 @@ Our mission? To make roads safer for everyone! 🚗✨
 - OpenCV 📸: For real-time image processing.
 - Arduino IDE: To program the Arduino Uno.
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -85,7 +85,7 @@ Follow these steps to set up the project 🔍:
     python test.py
     ```
 
----
+
 
 ## 🚀 Usage
 
@@ -97,7 +97,7 @@ Follow these steps to set up the project 🔍:
     - **Light Adjustment:** 💡 "Switching to low beam."
     - **Sign Board Alerts:** 🚸 "School Zone Ahead!"
 
----
+
 
 ## 🐾 Challenges
 
@@ -107,7 +107,7 @@ Follow these steps to set up the project 🔍:
 2. **Light Beam Control:** Performance dependent on specific environmental conditions.
 3. **Sign Board Detection:** Reliance on Google Maps for accurate mapping and approvals.
 
----
+
 
 ## 📊 Results
 
@@ -118,7 +118,7 @@ Follow these steps to set up the project 🔍:
 - **💡 Light Beam Adjustment:** Automated transitions between high and low beams for better safety.
 - **🚸 Sign Recognition:** Successfully identified school, hospital, and accident zones.
 
----
+
 
 ## 🔮 Future Scope
 
@@ -128,7 +128,7 @@ Follow these steps to set up the project 🔍:
 - **Weather Adaptation:** Enhancing system reliability in adverse weather conditions 🌦️.
 - **Compact Design:** Miniaturizing components for seamless integration into modern vehicles 🚘.
 
----
+
 
 ## 📚 References
 
@@ -140,4 +140,4 @@ Follow these steps to set up the project 🔍:
 
 For additional references, see the `References.pdf` file included in this repository.
 
----
+
